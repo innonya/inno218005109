@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\Teacher\\RiderProjects\\OdeToFoodn\\OdeToFoodn\\OdeToFoodn.csproj",
+    "projectUniqueName": "C:\\Users\\Teacher\\Desktop\\OdeToFoodn\\OdeToFoodn\\OdeToFoodn.csproj",
     "projectName": "OdeToFoodn",
-    "projectPath": "C:\\Users\\Teacher\\RiderProjects\\OdeToFoodn\\OdeToFoodn\\OdeToFoodn.csproj",
-    "outputPath": "C:\\Users\\Teacher\\RiderProjects\\OdeToFoodn\\OdeToFoodn\\obj\\",
+    "projectPath": "C:\\Users\\Teacher\\Desktop\\OdeToFoodn\\OdeToFoodn\\OdeToFoodn.csproj",
+    "outputPath": "C:\\Users\\Teacher\\Desktop\\OdeToFoodn\\OdeToFoodn\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

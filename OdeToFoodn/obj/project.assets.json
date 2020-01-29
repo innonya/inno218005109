@@ -8324,11 +8324,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Teacher\\RiderProjects\\OdeToFoodn\\OdeToFoodn\\OdeToFoodn.csproj",
+      "projectUniqueName": "C:\\Users\\Teacher\\Desktop\\OdeToFoodn\\OdeToFoodn\\OdeToFoodn.csproj",
       "projectName": "OdeToFoodn",
-      "projectPath": "C:\\Users\\Teacher\\RiderProjects\\OdeToFoodn\\OdeToFoodn\\OdeToFoodn.csproj",
+      "projectPath": "C:\\Users\\Teacher\\Desktop\\OdeToFoodn\\OdeToFoodn\\OdeToFoodn.csproj",
       "packagesPath": "C:\\Users\\Teacher\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Teacher\\RiderProjects\\OdeToFoodn\\OdeToFoodn\\obj\\",
+      "outputPath": "C:\\Users\\Teacher\\Desktop\\OdeToFoodn\\OdeToFoodn\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8384,16 +8384,7 @@
           "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true,
-        "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "warn": true
       }
     }
   }

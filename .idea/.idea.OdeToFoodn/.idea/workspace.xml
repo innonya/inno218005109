@@ -1,31 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43f2a83b-60fe-4218-ae2c-b47967c40e3b" name="Default Changelist" comment="" />
+    <list default="true" id="43f2a83b-60fe-4218-ae2c-b47967c40e3b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OdeToFoodn/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OdeToFoodn/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OdeToFoodn/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OdeToFoodn/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OdeToFoodn/obj/Debug/netcoreapp3.0/OdeToFoodn.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OdeToFoodn/obj/Debug/netcoreapp3.0/OdeToFoodn.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OdeToFoodn/obj/Debug/netcoreapp3.0/OdeToFoodn.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OdeToFoodn/obj/Debug/netcoreapp3.0/OdeToFoodn.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OdeToFoodn/obj/OdeToFoodn.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OdeToFoodn/obj/OdeToFoodn.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OdeToFoodn/obj/OdeToFoodn.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OdeToFoodn/obj/OdeToFoodn.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OdeToFoodn/obj/OdeToFoodn.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/OdeToFoodn/obj/OdeToFoodn.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OdeToFoodn/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/OdeToFoodn/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OdeToFoodn/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OdeToFoodn/obj/project.packagespec.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/OdeToFoodn/Contollers/AboutController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/OdeToFoodn/Startup.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/OdeToFoodn/Contollers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/OdeToFoodn/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/OdeToFoodn/Models/Restaurant.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/OdeToFoodn/Models/OdeToFoodnDbContext.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/OdeToFoodn/Pages/Error.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/OdeToFoodn/Services/IRestaurantData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/OdeToFoodn/Pages/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/OdeToFoodn/ViewModels/RestaurantEditViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OdeToFoodn/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/OdeToFoodn/ViewModels/HomeViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OdeToFoodn/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OdeToFoodn/ViewModels/RestaurantEditViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OdeToFoodn/Models/OdeToFoodnDbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OdeToFoodn/Views/Home/Details.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OdeToFoodn/Contollers/AboutController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OdeToFoodn/Models/Restaurant.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OdeToFoodn/Services/IRestaurantData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OdeToFoodn/Views/Home/Create.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OdeToFoodn/Pages/Privacy.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OdeToFoodn/Pages/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OdeToFoodn/Pages/Error.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OdeToFoodn/Contollers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/OdeToFoodn/Pages/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/OdeToFoodn/Pages/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/OdeToFoodn/Pages/Privacy.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/OdeToFoodn/Views/Home/Create.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/OdeToFoodn/Views/Home/Details.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/OdeToFoodn/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -108,14 +121,26 @@
       <option name="presentableId" value="Default" />
       <updated>1580188459689</updated>
       <workItem from="1580188468740" duration="9258000" />
+      <workItem from="1580243799644" duration="794000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
   </component>
